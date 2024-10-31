@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>IT Documentation Guide</span>,
+  logo: <span>Panduan Dokumentasi IT</span>,
   project: {
     link: 'https://github.com/itbbg/itguide',
   },
