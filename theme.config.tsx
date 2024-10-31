@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/itbbg/itguide',
   footer: {
-    text: 'IT Documentation Guide',
+    text: 'Made by IT BBG',
   },
 }
 
