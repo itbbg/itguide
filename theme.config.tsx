@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/itbbg/itguide',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'IT Documentation Guide',
   },
 }
 
